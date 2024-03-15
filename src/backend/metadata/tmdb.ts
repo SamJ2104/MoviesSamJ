@@ -221,7 +221,7 @@ export function getMediaDetails<
 
 export function getMediaPoster(posterPath: string | null): string | undefined {
   if (posterPath) {
-    return `https://whitmorehighimg.vercel.app/w342/${posterPath}`;
+    return `https://whitmorehighimg.vercel.app/w342${posterPath}`;
   }
 }
 

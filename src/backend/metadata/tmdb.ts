@@ -220,8 +220,9 @@ export function getMediaDetails<
 }
 
 export function getMediaPoster(posterPath: string | null): string | undefined {
-  if (posterPath) return `https://image.tmdb.org/t/p/w342/${posterPath}`;
+  if (posterPath) return `https://whitmorehighimg.vercel.app/w342/${posterPath}`;
 }
+
 
 export async function getEpisodes(
   id: string,

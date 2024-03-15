@@ -142,7 +142,7 @@ export function decodeTMDBId(
   };
 }
 
-const baseURL = "https://api.themoviedb.org/3";
+const baseURL = "https://whitmoremoviedb.vercel.app/3";
 
 const apiKey = conf().TMDB_READ_API_KEY;
 

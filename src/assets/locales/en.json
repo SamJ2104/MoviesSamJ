@@ -92,13 +92,13 @@
     "tagline": "Watch your favourite shows and movies with this open source streaming app."
   },
   "global": {
-    "name": "movie-web",
+    "name": "Whitmore Movies",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
       "login": "Login",
       "onboarding": "Setup",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - Whitmore Movies",
       "register": "Register",
       "settings": "Settings"
     }
@@ -169,7 +169,7 @@
   "notFound": {
     "badge": "Not found",
     "goHome": "Back to home",
-    "message": "We looked everywhere: under the bins, in the closet, behind the proxy but ultimately couldn't find the page you are looking for.",
+    "message": "We looked everywhere: under Mr Pullum's bins, in the closet, behind the bike shed but ultimately couldn't find the page you are looking for.",
     "title": "Couldn't find that page"
   },
   "onboarding": {
@@ -221,7 +221,7 @@
         },
         "extension": {
           "action": "Install extension",
-          "description": "Install browser extension and gain access to the best sources.",
+          "description": "Install browser extension and gain access to the best sources. (You can't do this in school)",
           "quality": "Best quality",
           "title": "Browser extension"
         },
@@ -535,7 +535,7 @@
       "backgroundLabel": "Background opacity",
       "backgroundBlurLabel": "Background blur",
       "colorLabel": "Color",
-      "previewQuote": "I must not fear. Fear is the mind-killer.",
+      "previewQuote": "Mr Robinson has hairy toes. He doesn't even shave them.",
       "textSizeLabel": "Text size",
       "title": "Subtitles"
     },

@@ -142,7 +142,7 @@ export function decodeTMDBId(
   };
 }
 
-const baseURL = "https://whitmoremoviedb.vercel.app/3";
+const baseURL = "https://api.themoviedb.org/3";
 
 const apiKey = conf().TMDB_READ_API_KEY;
 
@@ -220,9 +220,7 @@ export function getMediaDetails<
 }
 
 export function getMediaPoster(posterPath: string | null): string | undefined {
-  if (posterPath) {
-    return `https://whitmorehighimg.vercel.app/t/p/original/${posterPath}`;
-  }
+  if (posterPath) return `https://image.tmdb.org/t/p/w342/${posterPath}`;
 }
 
 export async function getEpisodes(

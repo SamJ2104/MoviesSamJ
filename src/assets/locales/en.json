@@ -1,9 +1,9 @@
 {
   "about": {
-    "description": "movie-web is a web application that searches the internet for streams. The team aims for a mostly minimalistic approach to consuming content.",
+    "description": "SamJ Movies is a web application that searches the internet for streams. The team aims for a mostly minimalistic approach to consuming content.",
     "faqTitle": "Common questions",
     "q1": {
-      "body": "movie-web does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by movie-web, everything is through this searching mechanism.",
+      "body": "movie-web does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by SamJ Movies, everything is through this searching mechanism.",
       "title": "Where does the content come from?"
     },
     "q2": {
@@ -14,7 +14,7 @@
       "body": "Our search results are powered by The Movie Database (TMDB) and display regardless of whether our sources actually have the content.",
       "title": "The search results display the show or movie, why can't I play it?"
     },
-    "title": "About movie-web"
+    "title": "About SamJ Movies"
   },
   "actions": {
     "copied": "Copied",
@@ -82,7 +82,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Disclaimer",
-      "disclaimerText": "movie-web does not host any files, it merely links to 3rd party services. Legal issues should be taken up with the file hosts and providers. movie-web is not responsible for any media files shown by the video providers."
+      "disclaimerText": "SamJ Movies does not host any files, it merely links to 3rd party services. Legal issues should be taken up with the file hosts and providers. movie-web is not responsible for any media files shown by the video providers."
     },
     "links": {
       "discord": "Discord",
@@ -92,13 +92,13 @@
     "tagline": "Watch your favourite shows and movies with this open source streaming app."
   },
   "global": {
-    "name": "Whitmore High School",
+    "name": "SamJ Movies",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
       "login": "Login",
       "onboarding": "Setup",
-      "pagetitle": "Whitmore High School",
+      "pagetitle": "{{title}} - SamJ Movies",
       "register": "Register",
       "settings": "Settings"
     }
@@ -169,7 +169,7 @@
   "notFound": {
     "badge": "Not found",
     "goHome": "Back to home",
-    "message": "We looked everywhere: under Mr Pullum's bins, in the closet, behind the bike shed but ultimately couldn't find the page you are looking for.",
+    "message": "We looked everywhere: under the bins, in the closet, behind the proxy but ultimately couldn't find the page you are looking for.",
     "title": "Couldn't find that page"
   },
   "onboarding": {
@@ -221,7 +221,7 @@
         },
         "extension": {
           "action": "Install extension",
-          "description": "Install browser extension and gain access to the best sources. (You can't do this in school)",
+          "description": "Install browser extension and gain access to the best sources.",
           "quality": "Best quality",
           "title": "Browser extension"
         },
@@ -535,7 +535,7 @@
       "backgroundLabel": "Background opacity",
       "backgroundBlurLabel": "Background blur",
       "colorLabel": "Color",
-      "previewQuote": "Mr Robinson has hairy toes. He doesn't even shave them.",
+      "previewQuote": "I must not fear. Fear is the mind-killer.",
       "textSizeLabel": "Text size",
       "title": "Subtitles"
     },

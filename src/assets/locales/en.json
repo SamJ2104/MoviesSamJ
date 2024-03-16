@@ -57,7 +57,7 @@
       },
       "noHostTitle": "Server not configured!",
       "noHost": "The server has not been configured, therefore you cannot create an account",
-      "host": "You are connecting to <0>{{hostname}}</0> - please confirm you trust it before making an account",
+      "host": "You are connecting to <0>movies.samj.app</0> - please confirm you trust it before making an account",
       "no": "Go back",
       "title": "Do you trust this server?",
       "yes": "I trust this server"
@@ -423,7 +423,7 @@
     "account": {
       "accountDetails": {
         "deviceNameLabel": "Device name",
-        "deviceNamePlaceholder": "Personal phone",
+        "deviceNamePlaceholder": "Phone",
         "editProfile": "Edit",
         "logoutButton": "Log out"
       },

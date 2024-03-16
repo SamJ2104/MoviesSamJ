@@ -3,7 +3,7 @@
     "description": "SamJ Movies is a web application that searches the internet for streams. The team aims for a mostly minimalistic approach to consuming content.",
     "faqTitle": "Common questions",
     "q1": {
-      "body": "movie-web does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by SamJ Movies, everything is through this searching mechanism.",
+      "body": "SamJ Movies does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by SamJ Movies, everything is through this searching mechanism.",
       "title": "Where does the content come from?"
     },
     "q2": {

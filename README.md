@@ -28,7 +28,7 @@ Content is fetched from third parties and scraping is fully done on the client. 
 - To keep it cheap to host, amount of proxied requests need to be kept to a minimum
 - Also to keep it cheap, no content must ever be streamed through the proxy. So only streams not protected by CORS headers.
 
-# 🧬 Running locally for development
+## 🧬 Running locally for development
 
 To run locally, you must first clone the repository. After that run the following commands in the root of the repository:
 ```bash
@@ -46,6 +46,6 @@ pnpm build
 > [!TIP]
 > You must use pnpm (`npm i -g pnpm`) and run NodeJS 20
 
-## 🥔 Selfhosting
+### 🥔 Selfhosting
 
 A simple guide has been written to assist in hosting your own instance of SamJ Movies. 
